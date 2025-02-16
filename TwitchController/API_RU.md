@@ -19,7 +19,7 @@ local Keyboard = import('TwitchController', 'TwitchController.Hardware').Keyboar
 local Mouse = import('TwitchController', 'TwitchController.Hardware').Mouse
 ```
 
-### Взаимодействие с чатом Twitch с помощью (`TwitchChatController.Stuff.Twitch`)
+### Взаимодействие с чатом Twitch с помощью (`TwitchChatController.Stuff.Chat`)
 
 - Импорт интерфейса: ([Methods](API/RU/ChatMethods.md))
 
